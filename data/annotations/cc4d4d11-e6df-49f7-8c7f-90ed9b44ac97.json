@@ -343,13 +343,8 @@
               "text": "Outdoor view of the courtyard of the "
             },
             {
-              "type": "link",
-              "url": "https://www.uvic.ca/search/maps-buildings/buildings/cornett.php",
-              "children": [
-                {
-                  "text": "Cornett Building (COR)"
-                }
-              ]
+              "text": "Cornett Building (COR)",
+              "link": "https://www.uvic.ca/search/maps-buildings/buildings/cornett.php"
             },
             {
               "text": "."
