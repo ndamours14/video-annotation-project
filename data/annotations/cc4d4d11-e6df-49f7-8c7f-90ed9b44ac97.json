@@ -261,11 +261,11 @@
       "tags": [
         {
           "category": "Building Code",
-          "tag": "Outdoor"
+          "tag": "MAC"
         },
         {
-          "category": "Building Code",
-          "tag": "MAC"
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
         }
       ],
       "uuid": "fd08837f-d769-41f4-9cda-f515f118d5e6"
