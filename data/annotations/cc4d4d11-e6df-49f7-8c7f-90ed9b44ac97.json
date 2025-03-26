@@ -97,13 +97,8 @@
               "text": "Indoor view of the second floor of the "
             },
             {
-              "type": "link",
-              "url": "https://www.uvic.ca/search/maps-buildings/buildings/visual-arts.php",
-              "children": [
-                {
-                  "text": "Visual Arts Building (VIA)"
-                }
-              ]
+              "text": "Visual Arts Building (VIA)",
+              "link": "https://www.uvic.ca/search/maps-buildings/buildings/visual-arts.php"
             },
             {
               "text": ", looking down at the first floor."
