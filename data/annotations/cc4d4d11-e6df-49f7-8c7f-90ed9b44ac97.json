@@ -65,13 +65,8 @@
               "text": "Indoor view of the first floor entry to the "
             },
             {
-              "type": "link",
-              "url": "https://www.uvic.ca/search/maps-buildings/buildings/fine-arts.php",
-              "children": [
-                {
-                  "text": "Fine Arts Building (FIA)"
-                }
-              ]
+              "text": "Fine Arts Building (FIA)",
+              "link": "https://www.uvic.ca/search/maps-buildings/buildings/fine-arts.php"
             },
             {
               "text": "."
