@@ -236,25 +236,15 @@
               "text": "Outdoor view of the Quad, near the "
             },
             {
-              "type": "link",
-              "url": "https://www.uvic.ca/search/maps-buildings/buildings/first-peoples-house.php",
-              "children": [
-                {
-                  "text": "First Peoples House (FPH)"
-                }
-              ]
+              "text": "First Peoples House (FPH)",
+              "link": "https://www.uvic.ca/search/maps-buildings/buildings/first-peoples-house.php"
             },
             {
               "text": " and the "
             },
             {
-              "type": "link",
-              "url": "https://www.uvic.ca/search/maps-buildings/buildings/cornett.php",
-              "children": [
-                {
-                  "text": "Cornett Building (COR)"
-                }
-              ]
+              "text": "Cornett Building (COR)",
+              "link": "https://www.uvic.ca/search/maps-buildings/buildings/cornett.php"
             },
             {
               "text": "."
