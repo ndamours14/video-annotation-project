@@ -204,13 +204,8 @@
               "text": "Outdoor view of the courtyard in front of the "
             },
             {
-              "type": "link",
-              "url": "https://www.uvic.ca/search/maps-buildings/buildings/maclaurin.php",
-              "children": [
-                {
-                  "text": "MacLaurin Building (MAC)"
-                }
-              ]
+              "text": "MacLaurin Building (MAC)",
+              "link": "https://www.uvic.ca/search/maps-buildings/buildings/maclaurin.php"
             },
             {
               "text": "."
