@@ -388,11 +388,11 @@
       "tags": [
         {
           "category": "Building Code",
-          "tag": "Outdoor"
+          "tag": "FPH"
         },
         {
-          "category": "Building Code",
-          "tag": "FPH"
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
         }
       ],
       "uuid": "3bd04e3a-2395-43bc-9786-420b4535b6d1"
