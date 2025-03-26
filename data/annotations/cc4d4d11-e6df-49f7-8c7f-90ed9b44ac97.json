@@ -471,13 +471,8 @@
               "text": "Outdoor view of the fountain outside of the "
             },
             {
-              "type": "link",
-              "url": "https://www.uvic.ca/search/maps-buildings/buildings/mcpherson-library.php",
-              "children": [
-                {
-                  "text": "McPherson Library (LIB)"
-                }
-              ]
+              "text": "McPherson Library (LIB)",
+              "link": "https://www.uvic.ca/search/maps-buildings/buildings/mcpherson-library.php"
             },
             {
               "text": "."
