@@ -171,11 +171,11 @@
       "tags": [
         {
           "category": "Building Code",
-          "tag": "Indoor"
+          "tag": "VIA"
         },
         {
-          "category": "Building Code",
-          "tag": "VIA"
+          "category": "Indoor/Outdoor",
+          "tag": "Indoor"
         }
       ],
       "uuid": "2897e630-eae4-47bd-b47c-159a1aa135a7"
