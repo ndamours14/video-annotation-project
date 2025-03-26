@@ -1,7 +1,7 @@
 {
   "audiovisual_files": {
     "0adedf73-4d98-45ff-86d6-22d9d9849aa0": {
-      "label": "AV File 2",
+      "label": "Fontaine Saint Blaise 360 Video Part 2",
       "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/262/591/original/001_FontaineSaintBlaise_Blaise02.mp4?1739382238",
       "duration": 28.89553
     }
@@ -12,7 +12,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Part 3 of Fontaine Saint Blaise 360 Video"
+          "text": "Part 2 of Fontaine Saint Blaise 360 Video"
         }
       ]
     }
@@ -20,7 +20,7 @@
   "created_at": "2025-03-26T15:01:44.713Z",
   "created_by": "ndamours14",
   "item_type": "Video",
-  "label": "Imported Event 2",
-  "updated_at": "2025-03-26T15:01:44.713Z",
+  "label": "Annotation of Fontaine Saint Blaise 360 Video - Part 2",
+  "updated_at": "2025-03-26T15:03:26.280Z",
   "updated_by": "ndamours14"
 }
