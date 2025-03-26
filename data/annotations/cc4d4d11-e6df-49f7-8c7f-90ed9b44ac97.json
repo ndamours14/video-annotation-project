@@ -310,15 +310,15 @@
       "tags": [
         {
           "category": "Building Code",
-          "tag": "Outdoor"
-        },
-        {
-          "category": "Building Code",
           "tag": "FPH"
         },
         {
           "category": "Building Code",
           "tag": "COR"
+        },
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
         }
       ],
       "uuid": "94ab26cd-9ee0-44c9-9d7e-76826a8a27d3"
