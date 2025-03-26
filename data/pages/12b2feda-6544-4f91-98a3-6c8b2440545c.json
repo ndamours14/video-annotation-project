@@ -35,11 +35,11 @@
   "created_by": "ndamours14",
   "title": "Annotation of UVic in 360",
   "slug": "annotation-of-uvic-in-360",
-  "updated_at": "2025-03-26T15:39:47.208Z",
+  "updated_at": "2025-03-26T15:41:33.368Z",
   "updated_by": "ndamours14",
   "parent": "a75ddb68-acee-4809-8f0a-80e58922a6f2",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "f3179501-5582-4f8e-a5da-2d8bbbca51e1"
   }
