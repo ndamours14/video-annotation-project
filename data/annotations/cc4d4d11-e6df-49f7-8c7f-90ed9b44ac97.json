@@ -351,11 +351,11 @@
       "tags": [
         {
           "category": "Building Code",
-          "tag": "Outdoor"
+          "tag": "COR"
         },
         {
-          "category": "Building Code",
-          "tag": "COR"
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
         }
       ],
       "uuid": "08b623e0-2b48-4a44-b722-e80b4437852c"
