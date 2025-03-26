@@ -375,13 +375,8 @@
               "text": "Outdoor view of a walkway near the "
             },
             {
-              "type": "link",
-              "url": "https://uvic.ca/search/maps-buildings/buildings/elliott.php",
-              "children": [
-                {
-                  "text": "Elliott Building (ELL)"
-                }
-              ]
+              "text": "Elliott Building (ELL)",
+              "link": "https://uvic.ca/search/maps-buildings/buildings/elliott.php"
             },
             {
               "text": "."
