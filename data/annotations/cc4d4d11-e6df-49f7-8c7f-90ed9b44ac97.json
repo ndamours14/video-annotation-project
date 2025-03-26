@@ -97,11 +97,11 @@
       "tags": [
         {
           "category": "Building Code",
-          "tag": "Indoor"
+          "tag": "FIA"
         },
         {
-          "category": "Building Code",
-          "tag": "FIA"
+          "category": "Indoor/Outdoor",
+          "tag": "Indoor"
         }
       ],
       "uuid": "605ae4cc-83db-491f-b81b-c05949007fe5"
