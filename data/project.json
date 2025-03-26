@@ -43,10 +43,6 @@
         },
         {
           "category": "Building Code",
-          "tag": "Indoor"
-        },
-        {
-          "category": "Building Code",
           "tag": "MAC"
         },
         {
@@ -80,6 +76,6 @@
       ]
     },
     "created_at": "2025-03-26T14:53:31.411Z",
-    "updated_at": "2025-03-26T15:11:10.775Z"
+    "updated_at": "2025-03-26T15:11:14.128Z"
   }
 }
