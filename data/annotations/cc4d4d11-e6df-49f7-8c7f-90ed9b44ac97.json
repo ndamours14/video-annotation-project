@@ -161,25 +161,15 @@
               "text": "Outdoor view of the walkway between the "
             },
             {
-              "type": "link",
-              "url": "https://www.uvic.ca/search/maps-buildings/buildings/fine-arts.php",
-              "children": [
-                {
-                  "text": "Fine Arts Building (FIA)"
-                }
-              ]
+              "text": "Fine Arts Building (FIA)",
+              "link": "https://www.uvic.ca/search/maps-buildings/buildings/fine-arts.php"
             },
             {
               "text": " and the "
             },
             {
-              "type": "link",
-              "url": "https://www.uvic.ca/search/maps-buildings/buildings/phoenix-theatre.php",
-              "children": [
-                {
-                  "text": "Phoenix Theatre (PNX)"
-                }
-              ]
+              "text": "Phoenix Theatre (PNX)",
+              "link": "https://www.uvic.ca/search/maps-buildings/buildings/phoenix-theatre.php"
             },
             {
               "text": "."
