@@ -311,13 +311,8 @@
               "text": "Outdoor view of the entrance to the "
             },
             {
-              "type": "link",
-              "url": "https://www.uvic.ca/search/maps-buildings/buildings/first-peoples-house.php",
-              "children": [
-                {
-                  "text": "First Peoples House (FPH)"
-                }
-              ]
+              "text": "First Peoples House (FPH)",
+              "link": "https://www.uvic.ca/search/maps-buildings/buildings/first-peoples-house.php"
             },
             {
               "text": "."
