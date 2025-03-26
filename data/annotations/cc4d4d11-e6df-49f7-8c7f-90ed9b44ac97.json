@@ -220,15 +220,15 @@
       "tags": [
         {
           "category": "Building Code",
-          "tag": "Outdoor"
-        },
-        {
-          "category": "Building Code",
           "tag": "FIA"
         },
         {
           "category": "Building Code",
           "tag": "PNX"
+        },
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
         }
       ],
       "uuid": "9ff9997c-8e54-4282-92f2-594b70aa74e8"
