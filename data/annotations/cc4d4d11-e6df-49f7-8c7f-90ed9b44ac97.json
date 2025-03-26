@@ -536,11 +536,11 @@
       "tags": [
         {
           "category": "Building Code",
-          "tag": "Indoor"
+          "tag": "ECS"
         },
         {
-          "category": "Building Code",
-          "tag": "ECS"
+          "category": "Indoor/Outdoor",
+          "tag": "Indoor"
         }
       ],
       "uuid": "0239d07f-4bf0-453a-860d-07afc009f952"
