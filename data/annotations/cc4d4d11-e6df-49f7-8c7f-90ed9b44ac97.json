@@ -439,13 +439,8 @@
               "text": "Indoor view of the first floor of the "
             },
             {
-              "type": "link",
-              "url": "https://www.uvic.ca/search/maps-buildings/buildings/engineering-computer-science.php",
-              "children": [
-                {
-                  "text": "Engineering and Computer Science Building (ECS)"
-                }
-              ]
+              "text": "Engineering and Computer Science Building (ECS)",
+              "link": "https://www.uvic.ca/search/maps-buildings/buildings/engineering-computer-science.php"
             },
             {
               "text": "."
