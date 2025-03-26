@@ -462,11 +462,11 @@
       "tags": [
         {
           "category": "Building Code",
-          "tag": "Outdoor"
+          "tag": "ELL"
         },
         {
-          "category": "Building Code",
-          "tag": "ELL"
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
         }
       ],
       "uuid": "7b2b6f6c-397b-484f-906c-49c9e82ad045"
