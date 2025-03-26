@@ -573,11 +573,11 @@
       "tags": [
         {
           "category": "Building Code",
-          "tag": "Outdoor"
+          "tag": "LIB"
         },
         {
-          "category": "Building Code",
-          "tag": "LIB"
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
         }
       ],
       "uuid": "905ca985-1ae8-46b1-80d4-82bf1149c40e"
