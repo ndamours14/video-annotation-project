@@ -499,11 +499,11 @@
       "tags": [
         {
           "category": "Building Code",
-          "tag": "Outdoor"
+          "tag": "ECS"
         },
         {
-          "category": "Building Code",
-          "tag": "ECS"
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
         }
       ],
       "uuid": "de37a435-3700-47af-9c34-02701423cd55"
