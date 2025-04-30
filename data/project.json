@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "ndamours14",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194835216?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "ndamours14",
     "is_private": false,
@@ -76,6 +82,7 @@
       ]
     },
     "created_at": "2025-03-26T14:53:31.411Z",
-    "updated_at": "2025-03-26T15:45:27.087Z"
+    "updated_at": "2025-03-26T15:45:27.087Z",
+    "generate_pages_site": true
   }
 }
