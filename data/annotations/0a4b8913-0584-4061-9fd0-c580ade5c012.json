@@ -1,5 +1,534 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 13,
+      "annotation": [
+        {
+          "text": "Outdoor view of the "
+        },
+        {
+          "type": "link",
+          "url": "https://www.uvic.ca/search/maps-buildings/buildings/fine-arts.php",
+          "children": [
+            {
+              "text": "Fine Arts Building (FIA)"
+            }
+          ]
+        },
+        {
+          "text": ", the "
+        },
+        {
+          "type": "link",
+          "url": "https://www.uvic.ca/search/maps-buildings/buildings/phoenix-theatre.php",
+          "children": [
+            {
+              "text": "Phoenix Theatre (PNX)"
+            }
+          ]
+        },
+        {
+          "text": ", and the "
+        },
+        {
+          "type": "link",
+          "url": "https://www.uvic.ca/search/maps-buildings/buildings/visual-arts.php",
+          "children": [
+            {
+              "text": "Visual Arts Building (VIA)"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ],
+      "tags": [
+        {
+          "category": "Building Code",
+          "tag": "FIA"
+        },
+        {
+          "category": "Building Code",
+          "tag": "PNX"
+        },
+        {
+          "category": "Building Code",
+          "tag": "VIA"
+        },
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
+        }
+      ],
+      "uuid": "a888aaf2-76b0-488e-b8df-314cd287eb73"
+    },
+    {
+      "start_time": 13,
+      "end_time": 26,
+      "annotation": [
+        {
+          "text": "Indoor view of the first floor entry to the "
+        },
+        {
+          "type": "link",
+          "url": "https://www.uvic.ca/search/maps-buildings/buildings/fine-arts.php",
+          "children": [
+            {
+              "text": "Fine Arts Building (FIA)"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ],
+      "tags": [
+        {
+          "category": "Building Code",
+          "tag": "FIA"
+        },
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Indoor"
+        }
+      ],
+      "uuid": "95e8a3e9-1493-4a10-a493-eb647ff0c9a9"
+    },
+    {
+      "start_time": 26,
+      "end_time": 39,
+      "annotation": [
+        {
+          "text": "Indoor view of the second floor of the "
+        },
+        {
+          "type": "link",
+          "url": "https://www.uvic.ca/search/maps-buildings/buildings/visual-arts.php",
+          "children": [
+            {
+              "text": "Visual Arts Building (VIA)"
+            }
+          ]
+        },
+        {
+          "text": ", looking down at the first floor."
+        }
+      ],
+      "tags": [
+        {
+          "category": "Building Code",
+          "tag": "VIA"
+        },
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Indoor"
+        }
+      ],
+      "uuid": "4ca642a9-ab29-4f07-a4cf-f890072615f9"
+    },
+    {
+      "start_time": 39,
+      "end_time": 52,
+      "annotation": [
+        {
+          "text": "Indoor view of the first floor hallway of the "
+        },
+        {
+          "type": "link",
+          "url": "https://www.uvic.ca/search/maps-buildings/buildings/visual-arts.php",
+          "children": [
+            {
+              "text": "Visual Arts Building (VIA)"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ],
+      "tags": [
+        {
+          "category": "Building Code",
+          "tag": "VIA"
+        },
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Indoor"
+        }
+      ],
+      "uuid": "9a0b6402-9ff1-485e-938e-bc271f141eb6"
+    },
+    {
+      "start_time": 52,
+      "end_time": 65,
+      "annotation": [
+        {
+          "text": "Outdoor view of the walkway between the "
+        },
+        {
+          "type": "link",
+          "url": "https://www.uvic.ca/search/maps-buildings/buildings/fine-arts.php",
+          "children": [
+            {
+              "text": "Fine Arts Building (FIA)"
+            }
+          ]
+        },
+        {
+          "text": " and the "
+        },
+        {
+          "type": "link",
+          "url": "https://www.uvic.ca/search/maps-buildings/buildings/phoenix-theatre.php",
+          "children": [
+            {
+              "text": "Phoenix Theatre (PNX)"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ],
+      "tags": [
+        {
+          "category": "Building Code",
+          "tag": "FIA"
+        },
+        {
+          "category": "Building Code",
+          "tag": "PNX"
+        },
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
+        }
+      ],
+      "uuid": "eb4df082-34c4-48da-a713-b546041dc943"
+    },
+    {
+      "start_time": 65,
+      "end_time": 78,
+      "annotation": [
+        {
+          "text": "Outdoor view of the courtyard in front of the "
+        },
+        {
+          "type": "link",
+          "url": "https://www.uvic.ca/search/maps-buildings/buildings/maclaurin.php",
+          "children": [
+            {
+              "text": "MacLaurin Building (MAC)"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ],
+      "tags": [
+        {
+          "category": "Building Code",
+          "tag": "MAC"
+        },
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
+        }
+      ],
+      "uuid": "7a899162-1406-4602-89ef-8ad049d3d14a"
+    },
+    {
+      "start_time": 78,
+      "end_time": 91,
+      "annotation": [
+        {
+          "text": "Outdoor view of the Quad, near the "
+        },
+        {
+          "type": "link",
+          "url": "https://www.uvic.ca/search/maps-buildings/buildings/first-peoples-house.php",
+          "children": [
+            {
+              "text": "First Peoples House (FPH)"
+            }
+          ]
+        },
+        {
+          "text": " and the "
+        },
+        {
+          "type": "link",
+          "url": "https://www.uvic.ca/search/maps-buildings/buildings/cornett.php",
+          "children": [
+            {
+              "text": "Cornett Building (COR)"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ],
+      "tags": [
+        {
+          "category": "Building Code",
+          "tag": "FPH"
+        },
+        {
+          "category": "Building Code",
+          "tag": "COR"
+        },
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
+        }
+      ],
+      "uuid": "6953ab1c-4067-42f1-878d-f6f655e24376"
+    },
+    {
+      "start_time": 91,
+      "end_time": 105,
+      "annotation": [
+        {
+          "text": "Outdoor view of a bench outside of the "
+        },
+        {
+          "type": "link",
+          "url": "https://www.uvic.ca/search/maps-buildings/buildings/cornett.php",
+          "children": [
+            {
+              "text": "Cornett Building (COR)"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ],
+      "tags": [
+        {
+          "category": "Building Code",
+          "tag": "COR"
+        },
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
+        }
+      ],
+      "uuid": "05c9c2b0-190e-4b23-8678-119b1b026bef"
+    },
+    {
+      "start_time": 105,
+      "end_time": 118,
+      "annotation": [
+        {
+          "text": "Outdoor view of the entrance to the "
+        },
+        {
+          "type": "link",
+          "url": "https://www.uvic.ca/search/maps-buildings/buildings/first-peoples-house.php",
+          "children": [
+            {
+              "text": "First Peoples House (FPH)"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ],
+      "tags": [
+        {
+          "category": "Building Code",
+          "tag": "FPH"
+        },
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
+        }
+      ],
+      "uuid": "14f9e05e-af57-42e9-a573-5d6d7f83784a"
+    },
+    {
+      "start_time": 118,
+      "end_time": 130,
+      "annotation": [
+        {
+          "text": "Outdoor view of the courtyard of the "
+        },
+        {
+          "type": "link",
+          "url": "https://www.uvic.ca/search/maps-buildings/buildings/cornett.php",
+          "children": [
+            {
+              "text": "Cornett Building (COR)"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ],
+      "tags": [
+        {
+          "category": "Building Code",
+          "tag": "COR"
+        },
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
+        }
+      ],
+      "uuid": "e1450a32-171f-48dd-a6b9-ba033c325ad4"
+    },
+    {
+      "start_time": 130,
+      "end_time": 143,
+      "annotation": [
+        {
+          "text": "Outdoor view of a walkway near the "
+        },
+        {
+          "type": "link",
+          "url": "https://uvic.ca/search/maps-buildings/buildings/elliott.php",
+          "children": [
+            {
+              "text": "Elliott Building (ELL)"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ],
+      "tags": [
+        {
+          "category": "Building Code",
+          "tag": "ELL"
+        },
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
+        }
+      ],
+      "uuid": "7c740ec4-2918-4d7a-938a-819f97abedaf"
+    },
+    {
+      "start_time": 143,
+      "end_time": 156,
+      "annotation": [
+        {
+          "text": "Outdoor view of the entrance to the "
+        },
+        {
+          "type": "link",
+          "url": "https://www.uvic.ca/search/maps-buildings/buildings/engineering-computer-science.php",
+          "children": [
+            {
+              "text": "Engineering and Computer Science Building (ECS)"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ],
+      "tags": [
+        {
+          "category": "Building Code",
+          "tag": "ECS"
+        },
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
+        }
+      ],
+      "uuid": "bba521f0-0752-4ba7-b993-d03d7f005a9d"
+    },
+    {
+      "start_time": 156,
+      "end_time": 169,
+      "annotation": [
+        {
+          "text": "Indoor view of the first floor of the "
+        },
+        {
+          "type": "link",
+          "url": "https://www.uvic.ca/search/maps-buildings/buildings/engineering-computer-science.php",
+          "children": [
+            {
+              "text": "Engineering and Computer Science Building (ECS)"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ],
+      "tags": [
+        {
+          "category": "Building Code",
+          "tag": "ECS"
+        },
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Indoor"
+        }
+      ],
+      "uuid": "a8cacfbb-9e76-45a1-81ee-2d9dd62e7416"
+    },
+    {
+      "start_time": 169,
+      "end_time": 188,
+      "annotation": [
+        {
+          "text": "Outdoor view of the fountain outside of the "
+        },
+        {
+          "type": "link",
+          "url": "https://www.uvic.ca/search/maps-buildings/buildings/mcpherson-library.php",
+          "children": [
+            {
+              "text": "McPherson Library (LIB)"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ],
+      "tags": [
+        {
+          "category": "Building Code",
+          "tag": "LIB"
+        },
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
+        }
+      ],
+      "uuid": "2668b7f1-9ad0-4c91-aa3d-7fbd28fe3924"
+    },
+    {
+      "start_time": 188,
+      "end_time": 195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "End credits."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "281fea32-e7b0-4426-a64d-81bc780e0e24"
+    }
+  ],
   "set": "Default",
   "event_id": "559731c4-031d-4bff-b533-f84843a18e65",
   "source_id": "7587cb21-06fe-4a2a-80e9-75ba237be528"
