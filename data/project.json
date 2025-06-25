@@ -24,8 +24,13 @@
     "auto_populate_home_page": true,
     "additional_users": [
       {
-        "login_name": "jackDeVry",
-        "avatar_url": "https://avatars.githubusercontent.com/u/181752547?v=4",
+        "login_name": "lwjameson",
+        "avatar_url": "https://avatars.githubusercontent.com/u/17829439?v=4",
+        "admin": false
+      },
+      {
+        "login_name": "absempere",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38816173?v=4",
         "admin": false
       }
     ],
@@ -88,7 +93,7 @@
       ]
     },
     "created_at": "2025-03-26T14:53:31.411Z",
-    "updated_at": "2025-06-25T15:16:50.783Z",
+    "updated_at": "2025-06-25T18:48:06.518Z",
     "generate_pages_site": true
   }
 }
